@@ -260,7 +260,7 @@ example: `8'b0000_0001`
 **Some Notes**
 
 1. Do not create a project inside the root folder.
-2. Folder Structure:
+2. Starting a project:
    - Create a root repo like `Verilog-Projects`.
    - Create a project folder. (e.g. `Project-1`)
    - By using New Project wizard start to create a project.
