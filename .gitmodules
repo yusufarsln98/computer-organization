@@ -1,0 +1,9 @@
+[submodule "bomberman"]
+	path = bomberman
+	url = https://github.com/yusufarsln98/bomberman
+[submodule "arithmetic-logic-unit-for-mips-processors"]
+	path = arithmetic-logic-unit-for-mips-processors
+	url = https://github.com/yusufarsln98/arithmetic-logic-unit-for-mips-processors
+[submodule "mips-processor"]
+	path = mips-processor
+	url = https://github.com/yusufarsln98/mips-processor
